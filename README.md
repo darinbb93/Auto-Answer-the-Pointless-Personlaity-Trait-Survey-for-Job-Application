@@ -1,4 +1,3 @@
-# Auto-Answer-the-Pointless-Personlaity-Trait-Survey-for-Job-Application
 # Job Application Personality Survey Auto-Selector
 
 While applying for jobs, I kept running into the same personality trait surveys where you're asked to select a list of characteristics that best describe you. Whether they're officially scored or not, many applicants feel these assessments are looking for a particular combination of traits that employers value.
